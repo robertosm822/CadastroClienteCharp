@@ -1,0 +1,25 @@
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\mscorlib.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\normidna.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\normnfc.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\normnfd.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\normnfkc.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\normnfkd.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb

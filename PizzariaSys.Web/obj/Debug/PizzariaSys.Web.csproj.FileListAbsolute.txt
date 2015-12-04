@@ -1,0 +1,81 @@
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.dll.config
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.pdb
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\WebGrease.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.pdb
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.xml
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.dll.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\WebGrease.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Web.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\WebGrease.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Helpers.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Mvc.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Optimization.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.Razor.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\Antlr3.Runtime.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\Newtonsoft.Json.xml
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.csprojResolveAssemblyReference.cache
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\obj\Debug\PizzariaSys.Web.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.AcessoDados.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Dominio.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.AcessoDados.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.Web\bin\PizzariaSys.Dominio.pdb

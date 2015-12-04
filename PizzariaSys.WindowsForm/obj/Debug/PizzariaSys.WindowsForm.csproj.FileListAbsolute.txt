@@ -1,0 +1,45 @@
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe.config
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.pdb
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.Properties.Resources.resources
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmPrincipal.resources
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.Properties.Resources.resources
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmCadastro.resources
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmConsultaCliente.resources
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe.config
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.WindowsForm.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\mscorlib.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.Dominio.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\PizzariaSys.Dominio.pdb
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\normidna.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\normnfc.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\normnfd.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\normnfkc.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\bin\Debug\normnfkd.nlp
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmCadastro.resources
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmConsultaCliente.resources
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.FrmPrincipal.resources
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.Properties.Resources.resources
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.exe
+C:\Users\noblind\Downloads\PizzariaSys\PizzariaSys\PizzariaSys.WindowsForm\obj\Debug\PizzariaSys.WindowsForm.pdb
